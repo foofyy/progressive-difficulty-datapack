@@ -1,0 +1,3 @@
+execute unless score %level pd.world matches 4.. run tellraw @a ["",{"text":"You feel the ground shaking below you...","bold":false,"color":"yellow","italic": true},"\n",{"text":"World level: 4","bold":true,"color":"gold"}]
+execute unless score %level pd.world matches 4.. run playsound minecraft:ambient.basalt_deltas.mood master @a
+execute unless score %level pd.world matches 4.. run scoreboard players set %level pd.world 4

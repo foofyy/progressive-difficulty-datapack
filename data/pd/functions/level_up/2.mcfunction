@@ -1,0 +1,3 @@
+execute unless score %level pd.world matches 2.. run tellraw @a ["",{"text":"The ancient spirits of light and dark have been released.","bold":false,"color":"yellow","italic": true},"\n",{"text":"World level: 2","bold":true,"color":"gold"}]
+execute unless score %level pd.world matches 2.. run execute at @a run playsound minecraft:ambient.soul_sand_valley.mood master @a ~ ~ ~ 10
+execute unless score %level pd.world matches 2.. run scoreboard players set %level pd.world 2

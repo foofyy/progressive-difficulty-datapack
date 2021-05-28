@@ -1,0 +1,3 @@
+execute unless score %level pd.world matches 1.. run tellraw @a ["",{"text":"Screams echo around you..","bold":false,"color":"yellow","italic": true},"\n",{"text":"World level: 1","bold":true,"color":"gold"}]
+execute unless score %level pd.world matches 1.. run playsound minecraft:ambient.basalt_deltas.mood master @a
+execute unless score %level pd.world matches 1.. run scoreboard players set %level pd.world 1

@@ -1,0 +1,31 @@
+{
+    "replace": false,
+    "values": [
+      "minecraft:skeleton",
+      "minecraft:spider",
+      "minecraft:zombie",
+      "minecraft:cave_spider",
+      "minecraft:illusioner",
+      "minecraft:husk",
+      "minecraft:creeper",
+      "minecraft:evoker",
+      "minecraft:ghast",
+      "minecraft:drowned",
+      "minecraft:pillager",
+      "minecraft:magma_cube",
+      "minecraft:shulker",
+      "minecraft:slime",
+      "minecraft:witch",
+      "minecraft:vindicator",
+      "minecraft:wither_skeleton",
+      "minecraft:wither",
+      "minecraft:ender_dragon",
+      "minecraft:enderman",
+      "minecraft:blaze",
+      "minecraft:piglin",
+      "minecraft:zombified_piglin",
+      "minecraft:hoglin",
+      "minecraft:zoglin"
+    ]
+  }
+  
